@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:29:23.773355
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:25
 #+TITLE: 恒水經
 #+PROPERTY: CBETA_ID T01n0033
 #+PROPERTY: ID KR6a0033
